@@ -15,7 +15,7 @@ Add this to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-wasm-timer = "0.2"
+wasm-timer = "0.2.5"
 ```
 
 ## Usage
